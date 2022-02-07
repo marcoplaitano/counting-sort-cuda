@@ -1,0 +1,8 @@
+bin/
+build/
+data/
+output/
+**/*.o
+**/*.out
+**/*.jpg
+**/*.csv
